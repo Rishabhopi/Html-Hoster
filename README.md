@@ -14,7 +14,7 @@ How to Use:
 1. **Clone the Repository**: Use the following command to clone the HTML Hoster repository:
    
    ```
-   git clone https://github.com/nepcoder1/Html-Hoster.git
+   git clone https://github.com/rishabhopi/Html-Hoster.git
    ```
    
 2. **Upload Your Files**: After cloning the repository, navigate to the `html-hoster` directory.
@@ -29,8 +29,8 @@ Getting Started:
 To begin using HTML Hoster, follow the instructions provided in the repository.
 
 Join our community:
-Join the @devsnp channel to connect with other users, share your experiences, and get support related to HTML Hoster and other projects.
+Join the @Ur_rishu_143🥀 channel to connect with other users, share your experiences, and get support related to HTML Hoster and other projects.
 
-Made with ❤️ by Nepcoder
+Made with ❤️ by Rishu coder😇
 
 Happy Hosting! 🌟🚀🌐
